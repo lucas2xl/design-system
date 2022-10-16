@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react';
-import { Text, TextProps } from '@alchemy/react';
+import { Text, TextProps } from '@hananim/react';
 
 export default {
   title: 'Typography/Text',

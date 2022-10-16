@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react';
-import { Box, BoxProps, Text } from '@alchemy/react';
+import { Box, BoxProps, Text } from '@hananim/react';
 
 export default {
   title: 'Surfaces/Box',

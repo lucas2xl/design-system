@@ -13,7 +13,7 @@ import {
   sizes,
   zIndices,
   media,
-} from '@alchemy/tokens';
+} from '@hananim/tokens';
 import { createStitches, defaultThemeMap } from '@stitches/react';
 
 export const {

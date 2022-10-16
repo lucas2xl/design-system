@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react';
-import { Box, Text, TextArea, TextAreaProps } from '@alchemy/react';
+import { Box, Text, TextArea, TextAreaProps } from '@hananim/react';
 
 export default {
   title: 'Form/Text Area',

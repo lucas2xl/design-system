@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react';
-import { Box, Text, Checkbox, CheckboxProps } from '@alchemy/react';
+import { Box, Text, Checkbox, CheckboxProps } from '@hananim/react';
 
 export default {
   title: 'Form/Checkbox',

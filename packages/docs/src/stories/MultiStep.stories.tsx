@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react';
-import { Box, Text, MultiStep, MultiStepProps } from '@alchemy/react';
+import { Box, Text, MultiStep, MultiStepProps } from '@hananim/react';
 
 export default {
   title: 'Form/Multi Step',

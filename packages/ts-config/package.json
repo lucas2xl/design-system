@@ -1,6 +1,6 @@
 {
-  "name": "@alchemy/ts-config",
-  "version": "1.0.0",
+  "name": "@hananim/ts-config",
+  "version": "1.1.0",
   "license": "MIT",
   "private": true
 }

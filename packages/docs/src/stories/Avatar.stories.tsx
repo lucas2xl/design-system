@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react';
-import { Avatar, AvatarProps } from '@alchemy/react';
+import { Avatar, AvatarProps } from '@hananim/react';
 
 export default {
   title: 'Data display/Avatar',

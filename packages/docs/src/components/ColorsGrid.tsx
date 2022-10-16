@@ -1,4 +1,4 @@
-import { colors } from '@alchemy/tokens';
+import { colors } from '@hananim/tokens';
 import { getContrast } from 'polished';
 
 export function ColorsGrid() {

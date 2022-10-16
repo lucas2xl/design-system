@@ -1,4 +1,4 @@
 {
-  "extends": "@alchemy/ts-config/base.json",
+  "extends": "@hananim/ts-config/base.json",
   "include": ["./src"],
 }

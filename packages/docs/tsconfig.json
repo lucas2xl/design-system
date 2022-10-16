@@ -1,4 +1,4 @@
 {
-  "extends": "@alchemy/ts-config/react.json",
+  "extends": "@hananim/ts-config/react.json",
   "include": ["src"],
 }

@@ -1,6 +1,6 @@
 {
-  "name": "@alchemy/eslint-config",
-  "version": "1.0.0",
+  "name": "@hananim/eslint-config",
+  "version": "1.1.0",
   "license": "MIT",
   "private": true,
   "devDependencies": {

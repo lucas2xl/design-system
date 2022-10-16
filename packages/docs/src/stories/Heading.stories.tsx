@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react';
-import { Heading, HeadingProps } from '@alchemy/react';
+import { Heading, HeadingProps } from '@hananim/react';
 
 export default {
   title: 'Typography/Heading',
