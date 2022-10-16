@@ -1,0 +1,4 @@
+{
+  "extends": "@alchemy/ts-config/react.json",
+  "include": ["src"],
+}

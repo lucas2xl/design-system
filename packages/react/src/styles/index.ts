@@ -1,0 +1,50 @@
+import {
+  borderWidths,
+  colors,
+  fonts,
+  fontSizes,
+  fontWeights,
+  letterSpacings,
+  lineHeights,
+  radii,
+  shadows,
+  space,
+  transitions,
+  sizes,
+  zIndices,
+  media,
+} from '@alchemy/tokens';
+import { createStitches, defaultThemeMap } from '@stitches/react';
+
+export const {
+  styled,
+  css,
+  globalCss,
+  keyframes,
+  getCssText,
+  theme,
+  createTheme,
+  config,
+} = createStitches({
+  themeMap: {
+    ...defaultThemeMap,
+    height: 'space',
+    width: 'space',
+  },
+  media: media,
+  theme: {
+    colors,
+    radii,
+    borderWidths,
+    fonts,
+    fontSizes,
+    fontWeights,
+    letterSpacings,
+    lineHeights,
+    shadows,
+    space,
+    transitions,
+    zIndices,
+    sizes,
+  },
+});
